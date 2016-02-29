@@ -1,3 +1,4 @@
 # angular-app
-An app for students-teachers-schools-admins
-This is not a complete project. Actually no where near completion.
+This is an app I planed to do but did not have time.
+Just did set up angular generator via yeoman.
+Nothing has been done.
